@@ -1,9 +1,9 @@
 {
-  "name": "leaflet-tilefilter-grayscale",
+  "name": "leaflet-tilefilter-canvas",
   "version": "0.0.2",
   "homepage": "https://github.com/humangeo/leaflet-tilefilter",
   "description": "Allows you to apply image filters to Leaflet map tiles",
-  "main": "dist/leaflet-tilefilter.js",
+  "main": "leaflet-tilefilter-canvas.js",
   "keywords": [
     "Leaflet",
     "JavaScript",
